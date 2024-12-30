@@ -1,0 +1,6 @@
+React.js => Open source javascript library => UI => SPA (1 html file)
+JSX => Dynamic Markup (javascript xml) => read by a node module called babel 
+Virtual Dom => Makes events & functionalities exectutions more simple
+Reusable Components with their own state (RCC) => Dynamic DATA in Components
+One Way data binding => data can pass from parent to child (props)
+
